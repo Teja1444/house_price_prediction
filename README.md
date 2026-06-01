@@ -147,7 +147,7 @@ These visualizations help understand the linear relationship between house size 
 1. Clone the repository:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/Teja1444
 ```
 
 2. Install dependencies:
